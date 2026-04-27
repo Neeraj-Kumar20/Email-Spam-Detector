@@ -25,3 +25,6 @@ This is a **Machine Learning** project developed as part of the **MSc IT Final Y
 1. Clone the repository:
    ```bash
    git clone [https://github.com/your-username/Email-Spam-Detector.git](https://github.com/your-username/Email-Spam-Detector.git)
+   pip install -r requirements.txt
+   python train_model.py
+   streamlit run streamlit_app.py
