@@ -15,12 +15,8 @@ This is a **Machine Learning** project developed as part of the **MSc IT Final Y
 - **Libraries**: Pandas, Scikit-learn, Pickle, NLTK
 - **Algorithm**: Multinomial Naive Bayes
 
-## 👨‍💻 Project Team
-- **Neeraj Kumar** (Roll No: 7606)
-- **Diwanshu** (Roll No: 7603)
-
-**Submitted To:** Mr. Shubham Kumar
-
+## 👨‍💻 Project By
+- **Neeraj Kumar**
 ## ⚙️ How to Run Locally
 1. Clone the repository:
    ```bash
@@ -28,3 +24,4 @@ This is a **Machine Learning** project developed as part of the **MSc IT Final Y
    pip install -r requirements.txt
    python train_model.py
    streamlit run streamlit_app.py
+   python -m streamlit run streamlit_app.py
