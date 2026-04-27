@@ -25,3 +25,10 @@ This is a **Machine Learning** project developed as part of the **MSc IT Final Y
    python train_model.py
    streamlit run streamlit_app.py
    python -m streamlit run streamlit_app.py
+   <img width="1919" height="965" alt="image" src="https://github.com/user-attachments/assets/416ffe47-4299-4c35-9cb9-1c1b22bc3b67" />
+   <img width="1919" height="895" alt="image" src="https://github.com/user-attachments/assets/46e3e27a-b83a-474b-8f2f-6320e0b4b19a" />
+   <img width="1908" height="889" alt="image" src="https://github.com/user-attachments/assets/30609128-901d-4333-9b32-1eaed41e87b9" />
+
+
+
+   
